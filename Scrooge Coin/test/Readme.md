@@ -1,1 +1,1 @@
-Files used fr testing the code
+Files used for testing the code
