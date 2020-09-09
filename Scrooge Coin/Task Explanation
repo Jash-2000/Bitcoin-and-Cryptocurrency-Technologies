@@ -1,6 +1,6 @@
-# ScroogeCoin
 
 You will be responsible for creating a file called **TxHandler.java** that implements the following API:
+
 ```java
 public class TxHandler {
 
