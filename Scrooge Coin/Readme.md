@@ -1,5 +1,5 @@
-## Scrooge Coin
-# This is the First Programming Assignment
+# Scrooge Coin
+## This is the First Programming Assignment
 
 Here we have to implement a logic for a dummy coin system called - Scrooge Coin 
 
