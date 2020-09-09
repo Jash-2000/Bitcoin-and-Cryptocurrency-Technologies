@@ -1,5 +1,4 @@
 # ScroogeCoin
-Assignments from the **Coursera course "Bitcoin and Cryptocurrency Technologies"**
 
 You will be responsible for creating a file called **TxHandler.java** that implements the following API:
 ```java
